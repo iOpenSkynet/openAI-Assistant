@@ -9,4 +9,4 @@
 
 ## 首页
 
-[OpenAI-Assistant](http://111.230.199.241/)
+[OpenAI-Assistant](http://111.230.199.241/){:target="_blank"}
