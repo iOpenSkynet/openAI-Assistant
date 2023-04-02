@@ -1,13 +1,10 @@
-<h1 align="center">
-  openAI-Assistant
-</h1>
+# openAI-Assistant
 
-<p align="center">
-    <br> English | <a href="README-CN.md">中文</a>
-</p>
-<p align="center">
-    <em>Application assistants developed based on AI. It can support services such as openAI and Azure.</em>
-</p>
+**English** | [中文](./README.zh-CN.md)
+
+## Introduction
+
+Application assistants developed based on AI. It can support services such as openAI and Azure.
 
 ## Homepage
 
