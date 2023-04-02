@@ -8,4 +8,4 @@ Application assistants developed based on AI. It can support services such as op
 
 ## Homepage
 
-[OpenAI-Assistant](http://111.230.199.241/)
+[OpenAI-Assistant](http://111.230.199.241/ "Enjoy the company of OpenAI to the fullest.")
