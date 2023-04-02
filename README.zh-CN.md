@@ -9,4 +9,6 @@
 
 ## 首页
 
-[OpenAI-Assistant](http://111.230.199.241/){:target="_blank"}
+<a href="http://111.230.199.241/" title="尽情享受 OpenAI 的陪伴" target="_blank">
+  OpenAI-Assistant
+</a>
